@@ -1,4 +1,3 @@
-# Here is another update by lsnsky
 # Here is a new update by lsnsky
 # Shipping Cost Calculator
 
